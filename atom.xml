@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Beefish</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://beefish.me/"/>
+  <updated>2016-11-29T04:14:47.000Z</updated>
+  <id>http://beefish.me/</id>
+  
+  <author>
+    <name>Fish</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="http://beefish.me/2016/11/01.html"/>
+    <id>http://beefish.me/2016/11/01.html</id>
+    <published>2016-10-31T16:00:00.000Z</published>
+    <updated>2016-11-29T04:14:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to Beefish.Me</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to Beefish.Me&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
